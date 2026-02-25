@@ -1,0 +1,9 @@
+dataset/
+ISIC_2020_Training_JPEG/
+final_dataset/
+preprocessed/
+sorted_images/
+models/
+*.keras
+*.h5
+.vscode/
